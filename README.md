@@ -39,15 +39,15 @@ Whether it’s developing a CNN for tumor detection, designing APIs for RNA-Seq 
 
 ### 🚀 Featured Projects
 
-#### 🔬 [RASflow: RNA-Seq Workflow (Snakemake)](https://github.com/yourusername/rasflow-study)
+#### 🔬 [RASflow: RNA-Seq Workflow (Snakemake)](https://github.com/Janespercy/rasflow-study)
 
 Designed and evaluated a reproducible Snakemake-based workflow for RNA-Seq analysis using FastQC, HISAT2, Salmon, and DESeq2.
 
-#### 🧠 [Brain Tumor Detection Using CNN](https://github.com/yourusername/tumor-detection-cnn)
+#### 🧠 [Brain Tumor Detection Using CNN](https://github.com/Janespercy/tumor-detection-cnn)
 
 Built a convolutional neural network (CNN) for brain tumor classification using MRI scans, implemented in Keras with TensorFlow backend.
 
-#### ⚙️ [FastAPI Gene Expression Service](https://github.com/yourusername/gene-expression-api) *(in progress)*
+#### ⚙️ [FastAPI Gene Expression Service](https://github.com/Janespercy/gene-expression-api) 
 
 Developing a FastAPI backend to expose RNA-Seq gene expression data as a RESTful API — enabling downstream integration with dashboards and analysis tools.
 
