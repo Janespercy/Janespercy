@@ -49,13 +49,13 @@ Whether it’s developing a CNN for tumor detection, designing APIs for RNA-Seq 
 * Implemented a Random Forest classifier, identifying gene role as the primary predictive feature and enabling precise pathogenicity assessment.
 * Containerized workflow using Docker, enhancing reproducibility, scalability, and cross-platform deployment.
 
-### Interactive Dashboard: NGS Quality Control Visualiser  | FastAPI, Plotly, Dash, AWS EC2                                                                                        (2025)
+#### Interactive Dashboard: NGS Quality Control Visualiser  | FastAPI, Plotly, Dash, AWS EC2                                                                                        (2025)
 
 * Built and deployed a web application using FastAPI & Plotly Dash on AWS EC2 to visualize Next Generation Sequencing (NGS) quality metrics, impacting accuracy for genomic data analysis teams.
 * Developed robust RESTful APIs for dynamic file upload and live quality assessment, reducing processing/visualization time by 50%.
 * Architected a modular, containerized solution, improving scalability and maintenance for bioinformatics pipelines.
 
-### RASflow: An RNA-Seq Analysis workflow with Snakemake | HPC, Snakemake, Conda, FastQC, HISAT2                                                        (2024)
+#### RASflow: An RNA-Seq Analysis workflow with Snakemake | HPC, Snakemake, Conda, FastQC, HISAT2                                                        (2024)
 
 * Designed and executed a highly reproducible RNA-Seq analysis pipeline with Snakemake for seamless quality control, read alignment, quantification, and differential expression analysis.
 * Automated RNA-Seq processing and workflow management using Conda environments; reduced manual processing time by 70%.
