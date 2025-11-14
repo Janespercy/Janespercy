@@ -29,7 +29,7 @@ Whether it’s developing a CNN for tumor detection, designing APIs for RNA-Seq 
 
 ### 🔧 Technical Skills
 
-* Programming & Scripting: Python (NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn, FastAPI, JSON, XML), R, MATLAB, C, SQL, HTML, CSS, Shell Scripting
+* <b>Programming & Scripting:</b> Python (NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn, FastAPI, JSON, XML), R, MATLAB, C, SQL, HTML, CSS, Shell Scripting
 * Bioinformatics & NGS: RNA-seq, Single-Cell RNA-seq, Variant Calling, DESeq2 (R), Seurat (R), CellChat, clusterProfiler, FastQC, HISAT2, STAR, Salmon, Genome Analysis Toolkit (GATK), Snakemake, Nextflow
 * Machine Learning & AI : Deep Learning, CNN, Random Forest, XGBoost, AutoML, MLflow, Hyperparameter Tuning
 * Cloud & Big Data: HPC, AWS(EC2, S3), Azure ML Studio, Databricks, Azure Data Lake Storage, Data Factory, Apache Spark, Delta Lake, A/B Testing
